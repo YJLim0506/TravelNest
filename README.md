@@ -27,16 +27,6 @@
   <li>MySQL database</li>
 </ul>
 
-<h3 align="center">Web Application Design 💻</h3>
-
-<div style="display:flex;">
-  <img src="images/countries/pic.malaysia.jpg" width="300" alt="Homepage">
-  <img src="images/countries/pic.france.jpg" width="300" alt="Destinations">
-  <img src="images/countries/pic.greece.jpg" width="300" alt="Packages">
-  <img src="images/countries/pic.japan.jpg" width="300" alt="Services">
-  <img src="images/countries/pic.maldives.jpg" width="300" alt="Booking">
-</div>
-
 <h2 align="center">🛠️ Technologies Used</h2>
 
 <ul>
